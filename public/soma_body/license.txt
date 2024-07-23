@@ -1,0 +1,11 @@
+Model Information:
+* title:	soma_body_remade
+* source:	https://sketchfab.com/3d-models/soma-body-remade-6af38412fb2d458c893f88258bd2e4a9
+* author:	Egorushca (https://sketchfab.com/egorushca)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "soma_body_remade" (https://sketchfab.com/3d-models/soma-body-remade-6af38412fb2d458c893f88258bd2e4a9) by Egorushca (https://sketchfab.com/egorushca) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

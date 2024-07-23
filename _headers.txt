@@ -1,0 +1,8 @@
+/*
+  Content-Type: application/javascript
+
+/aesthetic_car/*
+  Content-Type: model/gltf+json
+
+/planet/*
+  Content-Type: model/gltf+json
